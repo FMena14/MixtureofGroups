@@ -105,7 +105,7 @@ PyYAML==3.12
 pyzmq==17.0.0
 qtconsole==4.3.1
 #recurrentshop==1.0.0
-requests==2.18.4
+requests==2.20.0
 s3transfer==0.1.13
 scikit-fuzzy==0.4.0
 scikit-learn==0.19.1
