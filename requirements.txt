@@ -19,7 +19,7 @@ cffi==1.11.5
 chardet==3.0.4
 #cloudpickle==0.6.1
 colorlover==0.2.1
-cryptography==2.2.2
+cryptography==3.2
 cufflinks==0.12.1
 cycler==0.10.0
 Cython==0.28.2
